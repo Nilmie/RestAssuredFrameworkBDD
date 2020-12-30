@@ -1,0 +1,13 @@
+{
+        "Request_Post": "http://localhost:3000/employees",
+ 	"email": "nilmie@mihcm.com",
+ 	"password":"123456",
+	"Request_Get": "http://localhost:3000/employees/1"
+	"Request_Get2": "http://localhost:3000/employees/2"
+	"Request_Get3": "http://localhost:3000/employees/3"
+	"Request_Delete": "http://localhost:3000/employees/33"
+	"Request_Put": "http://localhost:3000/employees/26"
+	"first_name": "NilmieR",
+ 	"last_name":"GamhewaR",
+
+}
